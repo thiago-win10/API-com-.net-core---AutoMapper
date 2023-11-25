@@ -1,0 +1,10 @@
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Domain\bin\Debug\netcoreapp3.1\Microsservices.Products.Domain.deps.json
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Domain\bin\Debug\netcoreapp3.1\Microsservices.Products.Domain.dll
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Domain\bin\Debug\netcoreapp3.1\Microsservices.Products.Domain.pdb
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Domain\obj\Debug\netcoreapp3.1\Microsservices.Products.Domain.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Domain\obj\Debug\netcoreapp3.1\Microsservices.Products.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Domain\obj\Debug\netcoreapp3.1\Microsservices.Products.Domain.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Domain\obj\Debug\netcoreapp3.1\Microsservices.Products.Domain.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Domain\obj\Debug\netcoreapp3.1\Microsservices.Products.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Domain\obj\Debug\netcoreapp3.1\Microsservices.Products.Domain.dll
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Domain\obj\Debug\netcoreapp3.1\Microsservices.Products.Domain.pdb

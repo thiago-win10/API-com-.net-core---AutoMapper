@@ -1,0 +1,17 @@
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\bin\Debug\netcoreapp3.1\Microsservices.Products.Infra.deps.json
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\bin\Debug\netcoreapp3.1\Microsservices.Products.Infra.dll
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\bin\Debug\netcoreapp3.1\Microsservices.Products.Infra.pdb
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\obj\Debug\netcoreapp3.1\Microsservices.Products.Infra.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\obj\Debug\netcoreapp3.1\Microsservices.Products.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\obj\Debug\netcoreapp3.1\Microsservices.Products.Infra.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\obj\Debug\netcoreapp3.1\Microsservices.Products.Infra.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\obj\Debug\netcoreapp3.1\Microsservices.Products.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\obj\Debug\netcoreapp3.1\Microsservices.Products.Infra.dll
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\obj\Debug\netcoreapp3.1\Microsservices.Products.Infra.pdb
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\bin\Debug\netcoreapp3.1\Microsservices.Products.Infra.runtimeconfig.json
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\bin\Debug\netcoreapp3.1\Microsservices.Products.Infra.runtimeconfig.dev.json
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\obj\Debug\netcoreapp3.1\Microsservices.Products.Infra.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\bin\Debug\netcoreapp3.1\Microsservices.Products.Domain.dll
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\bin\Debug\netcoreapp3.1\Microsservices.Products.Domain.pdb
+C:\Users\Thiago\source\repos\Microsservices.Products\Microsservices.Products.Infra\obj\Debug\netcoreapp3.1\Microsservices.Products.Infra.csproj.CopyComplete

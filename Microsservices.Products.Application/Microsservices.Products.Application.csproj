@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Microsservices.Products.Domain\Microsservices.Products.Domain.csproj" />
+    <ProjectReference Include="..\Microsservices.Products.Infra\Microsservices.Products.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
